@@ -1,0 +1,33 @@
+[
+  {
+    "name": "John Doe",
+    "designation": "Developer",
+    "Contact": [
+      { "type": "primary", "number": "9087654321" },
+      { "type": "emergency", "number": "9876543210" }
+    ],
+    "skills": ["JS", "HTML", "CSS"],
+    "dob": "01-Jan-1995"
+  },
+  {
+    "name": "Jane Doe",
+    "designation": "Software Engineer",
+    "contact": [{ "type": "primary", "number": "9087654321" }],
+    "skills": ["JS", "HTML"],
+    "dob": "01-Jan-1995"
+  },
+  {
+    "name": "Jane Doe",
+    "designation": "Frontend Engineer",
+    "contact": [{ "type": "primary", "number": "9187654321" }],
+    "skills": ["JS", "HTML", "React JS"],
+    "dob": "01-Jan-1995"
+  },
+  {
+    "name": "Jane Doe",
+    "designation": "React Developer",
+    "contact": [{ "type": "primary", "number": "9287654321" }],
+    "skills": ["JS", "HTML", "CSS", "Bootstrap"],
+    "dob": "01-Jan-1995"
+  }
+]
